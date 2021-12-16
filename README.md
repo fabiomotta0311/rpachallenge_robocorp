@@ -1,6 +1,6 @@
-# Template: Standard Robot Framework
+# RPA Challenge - Input Forms solved using Robot Framework
 
-Want to get started using [Robot Framework](https://robocorp.com/docs/languages-and-frameworks/robot-framework/basics) this is the simplest template to start from.
+This bot is testing to this framework.
 
 This template robot:
 
