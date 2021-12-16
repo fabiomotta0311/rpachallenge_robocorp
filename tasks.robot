@@ -22,7 +22,6 @@ Everything
         Input Text    css:input[ng-reflect-name="labelRole"]              ${row}[Role in Company]
         Click Button    css:input[value="Submit"]
     END
-    Dialog
 
 *** Keywords ***
 Dialog as progress indicator
